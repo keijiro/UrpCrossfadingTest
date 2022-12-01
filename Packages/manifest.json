@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "14.0.3",
+    "jp.keijiro.metatex": "1.0.4"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
+    }
+  ]
+}
