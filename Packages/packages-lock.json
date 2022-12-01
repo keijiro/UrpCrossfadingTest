@@ -54,6 +54,15 @@
         "com.unity.searcher": "4.9.2"
       }
     },
+    "com.unity.surface-gradient-bump-mapping": {
+      "version": "0.1.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.shadergraph": "13.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.ugui": {
       "version": "1.0.0",
       "depth": 2,
